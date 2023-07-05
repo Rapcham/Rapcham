@@ -18,12 +18,14 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="100" height="100" />
 </div>
 
- ## :snake: Contribuições do meu Github :snake:
 <div align="center">
  
-![](https://github.com/vaamonde/vaamonde/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=Rapcham"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rapcham&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </div>
 
  
