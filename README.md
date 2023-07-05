@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
- ![](https://github.com/Rapcham/Rapcham/main/main.yml)
+![](https://github.com/Rapcham/Rapcham/blob/output/github-contribution-grid-snake.svg)
 
   </div>
 
