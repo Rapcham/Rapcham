@@ -2,11 +2,12 @@
 
 
  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rapcham&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="Rapcham"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Rapcham&show_icons=true&theme=nightowl&locale=en" alt="Rapcham"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rapcham&theme=nightowl" alt="Rapcham"/>
 </div>
-
+ <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rapcham&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="Rapcham"/>
+</div>
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="HTML" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
