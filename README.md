@@ -18,9 +18,9 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="100" height="100" />
 </div>
 
-
+<div align="center">
   ![](https://github.com/vaamonde/vaamonde/blob/output/github-contribution-grid-snake.svg)
-  
+  </div>
   ##
  
 <div> 
