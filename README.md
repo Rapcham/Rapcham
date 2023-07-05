@@ -1,8 +1,14 @@
 ## Ola eu sou a Adonai Rapcham, Analista de Infraestruturas e Criador de PythonBots!
 
-[nightowl]: https://github-readme-stats.vercel.app/api?username=Rapcham&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
+ 
 
 <picture>
+   nightowl: {
+    title_color: "c792ea",
+    icon_color: "ffeb95",
+    text_color: "7fdbca",
+    bg_color: "011627",
+  }
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Rapcham&show_icons=true&theme=nightowl"
     media="(prefers-color-scheme: nightowl)"
