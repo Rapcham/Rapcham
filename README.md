@@ -1,12 +1,12 @@
 ## Ola eu sou a Adonai Rapcham, Analista de Infraestruturas e Criador de PythonBots!
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Rapcham&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: tokyonight)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Rapcham&show_icons=true&theme=nightowl"
+    media="(prefers-color-scheme: nightowl)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Rapcham&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: nightowl), (prefers-color-scheme: nightowl)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Rapcham&show_icons=true" />
 </picture>
