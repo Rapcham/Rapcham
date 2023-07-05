@@ -19,7 +19,9 @@
 </div>
 
 <div align="center">
+ 
   ![](https://github.com/vaamonde/vaamonde/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
   ##
  
